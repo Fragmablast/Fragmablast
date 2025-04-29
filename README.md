@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=500&center=true&vCenter=true&width=900&lines=Initiating+deep+matrix...;Establishing+secure+connection...;Bypassing+FBI+trackers...;Identity+masked.;Welcome+to+FRAGMABLAST+Protocol+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=500&center=true&vCenter=true&width=900&lines=Initializing+Cyber+Interface...;Establishing+Secure+Channel...;Welcome+to+FRAGMABLAST+Command+Node+%F0%9F%94%A5" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,7 +18,7 @@
 🧪 I explore vulnerabilities not to destroy — but to redefine resilience.  
 💣 Creator of chaos engines, hunter of zero-days, evader of logs.
 
-> 🧩 Philosophy: *Hack with honor. Obfuscate everything. Reveal nothing.*
+> 🧩 *Hack with honor. Obfuscate everything. Reveal nothing.*
 
 ---
 
@@ -46,6 +46,14 @@
 
 ---
 
+## 💻 3D HACKER PANEL (Live Vibe)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMT1VVNkHV2PaE/giphy.gif" alt="Hacker Terminal" width="600"/>
+</p>
+
+---
+
 ## 🕵️ INTEL DROP POINTS
 
 | Protocol   | Entry Point |
@@ -66,13 +74,13 @@
 
 ---
 
-## 🧨 AUTORUN SCRIPT
+## 🤖 AUTORUN SCRIPT
 
 ```bash
 #!/bin/bash
 
 echo "[+] Deploying shadow VPN tunnel..."
-echo "[+] Launching keylogger in RAM..."
-echo "[+] Injecting reverse shell payload..."
+echo "[+] Launching keylogger in volatile RAM..."
+echo "[+] Injecting AES-encrypted reverse shell payload..."
 echo "[+] Status: SYSTEM BREACHED"
-echo "Welcome to Fragmablast Control Panel"
+echo ">> Welcome, Operator Fragmablast"

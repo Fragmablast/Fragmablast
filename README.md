@@ -1,39 +1,60 @@
-# Hey, I'm Fragmablast! 👋
+# 👋 Hey, I’m Fragmablast
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I'm the person who looks at a system and wonders, *"What if I could make it stronger... by breaking it first?"* 😎  
-Hi! I’m Fragmablast — cybersecurity enthusiast, ethical hacker, and a tech explorer.
+I'm the kind of person who stares at a system and thinks:  
+*"How can I break this — and then make it bulletproof?"* 😎
 
-I don't just mess around with tech — I live and breathe it. I love understanding how things work, where they break, and how to secure them better.  
-My goal? To make the digital world a safer place for everyone.
+I'm **Fragmablast** — cybersecurity enthusiast, ethical hacker, and full-stack developer with a passion for system hardening, red teaming, and open-source security tools. I specialize in identifying vulnerabilities before the bad guys do — and writing clean, scalable code to eliminate them.
+
+My philosophy? **Hack to protect. Build to empower.**
 
 ---
 
-## 🛠 What I Use to Fight the Good Fight
+## 🛠 Tech Arsenal
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=for-the-badge)
+I speak fluent code and command line. Here's what I usually wield in battle:
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
+![Nmap](https://img.shields.io/badge/-Nmap-214478?logo=gnome-terminal&logoColor=white&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
 
 ---
 
-## 🧩 A Few Cool Things I Do
+## 🧩 What I Do
 
-- 🚀 I build tools that make systems stronger and smarter.
-- 🔒 I simulate real-world attacks to help companies find and fix vulnerabilities.
-- 💻 I create scripts that are both powerful and elegant.
-- 🌍 I contribute to open-source and spread awareness about cybersecurity.
+- 🛠 Build custom security tools and automation scripts.
+- 💣 Simulate real-world attacks (penetration testing / red teaming).
+- 🔐 Perform vulnerability assessments and system hardening.
+- 🌍 Contribute to open-source cybersecurity projects.
+- 📚 Share knowledge through writeups, CTFs, and community events.
+
+---
+
+## 💼 Currently Exploring
+
+- 🔍 Binary exploitation and reverse engineering  
+- 📦 Container security (Docker/K8s)  
+- 🔧 Building my own recon automation framework  
+- 🤖 AI + security intersections (LLM fuzzing, prompt injection detection)
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 
-- Telegram: [t.me/Fragmablast](https://t.me/Fragmablast)  
-- Email: fragmablast@email.com  
-- Codewars: [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast)
+- 🐱 Codewars: [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast)  
+- ✉️ Email: [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com)  
+- 💬 Telegram: [@Fragmablast](https://t.me/Fragmablast)  
+- 🧠 Group Chat: [@Haackers_Hubs](https://t.me/Haackers_Hubs)  
+- 🌐 Profile: [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub)
 
 ---
+
+> “The quieter you become, the more you are able to hear.”  
+> — *Ram Dass* (and every great hacker, ever)

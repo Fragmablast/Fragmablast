@@ -1,60 +1,65 @@
-<h1 align="center">👋 Yo, I'm Fragmablast</h1>
-<p align="center">💣 Ethical Hacker | 🛡 Security Researcher | 🧠 Tech Explorer</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=4000&pause=500&center=true&vCenter=true&width=900&lines=Initializing+darknet...;Bypassing+firewalls...;Access+granted.;Welcome,+Fragmablast+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HACKER-%F0%9F%94%A5-darkred?style=for-the-badge&logo=ghost&logoColor=white">
+  <img src="https://img.shields.io/badge/MYSTIC%20MIND-%F0%9F%94%AE-black?style=for-the-badge&logo=eye&logoColor=white">
+  <img src="https://img.shields.io/badge/SECURITY%20RESEARCHER-%F0%9F%94%91-8B0000?style=for-the-badge&logo=tor&logoColor=white">
+</p>
 
 ---
 
-## ⚡ Who Am I?
+## 🕶️ WHO THE HELL IS **FRAGMABLAST**?
 
-I'm the kind of person who looks at a system and wonders:  
-*"How can I break this — and make it unbreakable?"* 😎
+> "I'm not a hero. I'm not a villain.  
+> I'm the line of code you missed… and now it's too late."  
 
-I'm **Fragmablast** — a cybersecurity enthusiast and full-stack hacker who thrives in the space between **offense and defense**. I simulate real-world attacks, build tools, automate recon, and help others harden their digital fortresses.
-
-> 🧠 Philosophy: *Hack with purpose. Build with intent. Share with community.*
-
----
-
-## 🧰 My Arsenal
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge)
-![Nmap](https://img.shields.io/badge/-Nmap-214478?logo=gnome-terminal&logoColor=white&style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge)
+🧠 A digital ghost navigating shadows of the deep web...  
+💣 Offensive security addict — trained in chaos, driven by silence.  
+🛡 I play both sides: break it to **fix it** — and sometimes... just to **prove a point**.
 
 ---
 
-## 🎯 What I Do
+## 💻 TOOLKIT OF CHAOS
 
-- 💥 Penetration Testing & Red Team Simulations  
-- 🔐 Vulnerability Research & Threat Modeling  
-- ⚙️ Automation Tools for Recon & Exploitation  
-- 🌍 Open-Source Cybersecurity Contributions  
-- 📖 Security Writeups & CTF Battles
-
----
-
-## 🌍 Connect with Me
-
-| Platform     | Link                                                                 |
-|--------------|----------------------------------------------------------------------|
-| 💬 Telegram (Personal) | [@Fragmablast](https://t.me/Fragmablast)                          |
-| 🧠 Telegram Group     | [@Haackers_Hubs](https://t.me/Haackers_Hubs)                    |
-| 🌐 Hikmah Profile     | [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub)         |
-| ✉️ Email             | [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com)         |
-| 🧪 Codewars          | [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast) |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash&logoColor=green">
+  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=gnome-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/-Metasploit-black?style=for-the-badge&logo=ghostery&logoColor=white">
+</p>
 
 ---
 
-## 👀 Status
+## 🔍 CURRENT MISSION OBJECTIVES
 
-- 🧠 Learning: **Binary Exploitation**, **LLM Security**, **Container Hardening**  
-- 🛠 Building: **Custom Recon Framework**  
-- 📚 Reading: *Red Team Field Manual* + *Malware Analyst’s Cookbook*
+🛠 Building: **AI-Powered Recon Framework**  
+🎯 Targeting: **Red Team Ops**, **LLM Jailbreaks**, **Binary Exploits**  
+📖 Studying: *Red Team Field Manual*, *Malware Analyst’s Cookbook*, *Black Hat Python*
 
 ---
 
-> 🧩 “The quieter you become, the more you are able to hear.”  
-> — *Ram Dass*
+## 👁 CONNECT IN THE SHADOWS
+
+| Platform       | Access Key |
+|----------------|------------|
+| 🧪 Telegram (HQ) | [@Fragmablast](https://t.me/Fragmablast) |
+| 🔒 Hacker's Den | [@Haackers_Hubs](https://t.me/Haackers_Hubs) |
+| 🌐 Hikmah | [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub) |
+| 📧 Intel Drops | [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com) |
+| ⚔️ Codewars | [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast) |
+
+---
+
+## 🧠 CORE DIRECTIVE
+
+```bash
+# execute /init_hacker_protocol.sh
+
+> Hack with honor
+> Code with intent
+> Educate the underground
+> Disappear into the shadows

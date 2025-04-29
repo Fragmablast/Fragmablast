@@ -1,21 +1,20 @@
-# 👋 Hey, I’m Fragmablast
+<h1 align="center">👋 Yo, I'm Fragmablast</h1>
+<p align="center">💣 Ethical Hacker | 🛡 Security Researcher | 🧠 Tech Explorer</p>
 
 ---
 
-## 🧠 About Me
+## ⚡ Who Am I?
 
-I'm the kind of person who stares at a system and thinks:  
-*"How can I break this — and then make it bulletproof?"* 😎
+I'm the kind of person who looks at a system and wonders:  
+*"How can I break this — and make it unbreakable?"* 😎
 
-I'm **Fragmablast** — cybersecurity enthusiast, ethical hacker, and full-stack developer with a passion for system hardening, red teaming, and open-source security tools. I specialize in identifying vulnerabilities before the bad guys do — and writing clean, scalable code to eliminate them.
+I'm **Fragmablast** — a cybersecurity enthusiast and full-stack hacker who thrives in the space between **offense and defense**. I simulate real-world attacks, build tools, automate recon, and help others harden their digital fortresses.
 
-My philosophy? **Hack to protect. Build to empower.**
+> 🧠 Philosophy: *Hack with purpose. Build with intent. Share with community.*
 
 ---
 
-## 🛠 Tech Arsenal
-
-I speak fluent code and command line. Here's what I usually wield in battle:
+## 🧰 My Arsenal
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
@@ -27,34 +26,35 @@ I speak fluent code and command line. Here's what I usually wield in battle:
 
 ---
 
-## 🧩 What I Do
+## 🎯 What I Do
 
-- 🛠 Build custom security tools and automation scripts.
-- 💣 Simulate real-world attacks (penetration testing / red teaming).
-- 🔐 Perform vulnerability assessments and system hardening.
-- 🌍 Contribute to open-source cybersecurity projects.
-- 📚 Share knowledge through writeups, CTFs, and community events.
-
----
-
-## 💼 Currently Exploring
-
-- 🔍 Binary exploitation and reverse engineering  
-- 📦 Container security (Docker/K8s)  
-- 🔧 Building my own recon automation framework  
-- 🤖 AI + security intersections (LLM fuzzing, prompt injection detection)
+- 💥 Penetration Testing & Red Team Simulations  
+- 🔐 Vulnerability Research & Threat Modeling  
+- ⚙️ Automation Tools for Recon & Exploitation  
+- 🌍 Open-Source Cybersecurity Contributions  
+- 📖 Security Writeups & CTF Battles
 
 ---
 
-## 📫 Contact Me
+## 🌍 Connect with Me
 
-- 🐱 Codewars: [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast)  
-- ✉️ Email: [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com)  
-- 💬 Telegram: [@Fragmablast](https://t.me/Fragmablast)  
-- 🧠 Group Chat: [@Haackers_Hubs](https://t.me/Haackers_Hubs)  
-- 🌐 Profile: [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub)
+| Platform     | Link                                                                 |
+|--------------|----------------------------------------------------------------------|
+| 💬 Telegram (Personal) | [@Fragmablast](https://t.me/Fragmablast)                          |
+| 🧠 Telegram Group     | [@Haackers_Hubs](https://t.me/Haackers_Hubs)                    |
+| 🌐 Hikmah Profile     | [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub)         |
+| ✉️ Email             | [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com)         |
+| 🧪 Codewars          | [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast) |
 
 ---
 
-> “The quieter you become, the more you are able to hear.”  
-> — *Ram Dass* (and every great hacker, ever)
+## 👀 Status
+
+- 🧠 Learning: **Binary Exploitation**, **LLM Security**, **Container Hardening**  
+- 🛠 Building: **Custom Recon Framework**  
+- 📚 Reading: *Red Team Field Manual* + *Malware Analyst’s Cookbook*
+
+---
+
+> 🧩 “The quieter you become, the more you are able to hear.”  
+> — *Ram Dass*

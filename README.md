@@ -63,3 +63,8 @@
 > Code with intent
 > Educate the underground
 > Disappear into the shadows
+
+## 🔥 FINAL THOUGHT
+
+> _"You can trace my IP, but you’ll never trace my **purpose**."_  
+> — 🕵️‍♂️ *Agent Fragmablast, Unclassified Ops*

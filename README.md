@@ -1,79 +1,124 @@
-<!--
-  Instagram-Style Animated 3D Portfolio README
-  Suitable for: Ethical Hacker | Pentester | Bug Bounty Hunter
--->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&pause=500&center=true&vCenter=true&width=900&lines=Initializing+Cyber+Interface...;Establishing+Secure+Channel...;Welcome+to+FRAGMABLAST+Command+Node+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7971E,FFD200,21D4FD,B721FF&center=true&vCenter=true&width=700&lines=👾+Ethical+Hacker+|+Pentester+|+Bug+Bounty+Hunter+👾;Hacking+the+Planet+in+Style!;Securing+the+Future+One+Bug+at+a+Time" alt="Animated Typing" />
+  <img src="https://img.shields.io/badge/DARKNET-OPERATIVE-black?style=for-the-badge&logo=tor&logoColor=white">
+  <img src="https://img.shields.io/badge/0xHACKER%20MODE-ON-red?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/THREAT%20ANALYST-%F0%9F%94%91-8B0000?style=for-the-badge&logo=ghostery&logoColor=white">
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" alt="3D Hacker Animation" width="230"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fragmablast&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fragmablast&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fragmablast&theme=react-dark&hide_border=true" alt="Activity Graph" height="180"/>
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Hacker-%2300ff99?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pentester-%23ff00cc?style=for-the-badge&logo=protonvpn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bug%20Bounty-%23ffd200?style=for-the-badge&logo=bugcrowd&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Telegram-%2300baff?style=for-the-badge&logo=telegram&logoColor=white"/>
-</div>
+---
+
+## 🧠 WHO IS FRAGMABLAST?
+
+> _“Some learn security. I **live** it.”_
+
+🕶 Hacker by night, protector by code.  
+🧪 I explore vulnerabilities not to destroy — but to redefine resilience.  
+💣 Creator of chaos engines, hunter of zero-days, evader of logs.
+
+> 🧩 *Hack with honor. Obfuscate everything. Reveal nothing.*
 
 ---
 
-<details open>
-<summary><b>🌈 𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞-𝕊𝕥𝕪𝕝𝕖 𝔹𝕚𝕠</b></summary>
-<br>
-<div align="center" style="background: linear-gradient(135deg, #F7971E 0%, #FFD200 30%, #21D4FD 70%, #B721FF 100%); border-radius: 18px; padding: 24px 0;">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" style="border-radius: 50%; box-shadow: 0 0 12px #ff00cc, 0 0 30px #21d4fd;"/>
-  <h2>@hackerofhumann</h2>
-  <p><b>👾 Ethical Hacker | Pentester | Bug Bounty Hunter 👾</b></p>
-  <p>🔎 <b>Chasing vulnerabilities &amp; making the web safer</b></p>
-  <p>🛡️ <b>SQLi, XSS, LFI, RFI, IDOR, CSRF, SSRF, Logic Bugs, Top 10 exploits</b></p>
-  <p>💬 <i>“Amateurs hack systems; professionals hack people.”</i></p>
-  <a href="https://t.me/hackerofhumann">
-    <img src="https://img.shields.io/badge/Telegram-%2300baff?style=flat-square&logo=telegram&logoColor=white"/> 
-  </a>
-</div>
-</details>
+## 🧰 WEAPONIZED STACK
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nmap-black?style=for-the-badge&logo=gnome-terminal&logoColor=white">
+  <img src="https://img.shields.io/badge/-BurpSuite-black?style=for-the-badge&logo=burpsuite&logoColor=orange">
+  <img src="https://img.shields.io/badge/-Metasploit-black?style=for-the-badge&logo=ghostery&logoColor=white">
+  <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=blue">
+  <img src="https://img.shields.io/badge/-Bash-black?style=for-the-badge&logo=gnubash&logoColor=green">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=yellow">
+  <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker&logoColor=cyan">
+  <img src="https://img.shields.io/badge/-OpenAI-black?style=for-the-badge&logo=openai&logoColor=white">
+</p>
 
 ---
 
-## 🎨 3D Animated Highlights
+## 🎯 MISSION PROFILE
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/48207869/230749866-5e1b6a6e-7d53-49b0-9e0c-7e2a48e3e1ad.gif" alt="Bug Bounty Animation" width="180" style="border-radius: 16px;"/>
-  <img src="https://media.giphy.com/media/3o7TKUMGc8LSNWTpW0/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/26ufcYAk6v1Y4pVHW/giphy.gif" width="180"/>
-</div>
+- 🔥 Red Team Simulation & Stealth Exploitation  
+- 🛰 Deep Reconnaissance with Automated Frameworks  
+- 🧬 Reverse Engineering & Malware Dissection  
+- 🛡 SOC Hardening and Threat Intelligence  
+- 🔓 Web App PenTesting & Custom Payload Design  
+- 🤖 AI-Augmented Security Research
 
 ---
 
-## 🧑‍💻 Skills & Tools
+## 🚩 FEATURED PROJECT
 
-```diff
-+ Web Security:     SQLi, XSS, LFI, RFI, CSRF, IDOR, SSRF, Logic Bugs
-+ Recon:            OSINT, Asset Discovery, Enumeration
-+ Automation:       Python, Burp Suite, Custom Scripts
-+ Reporting:        Detailed, clear, actionable write-ups
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKMT1VVNkHV2PaE/giphy.gif" alt="Hacker Terminal" width="500"/>
+</p>
+
+### 🕷️ BLACKNET: Auto-Recon Engine
+
+**Description:**  
+A modular, extensible automation framework for reconnaissance, vulnerability detection, and live reporting.  
+- 🔍 Asset Discovery (Subdomains, Ports, Endpoints)
+- 🚨 Automated Vulnerability Scanning (SQLi, XSS, LFI, RFI, IDOR, SSRF)
+- 🗡️ Exploit Toolkit Integration (Metasploit, custom scripts)
+- 📊 Live Dashboard and Notification System
+
+**Tech:** Python · Bash · Docker · Nmap · BurpSuite API · Node.js  
+**Status:** _v2.0 in active development_ 🚧
+
+[View the Project Repo (Coming Soon!)](https://github.com/Fragmablast/BlackNet)
+
+---
+
+## 💡 GITHUB SNAPSHOT
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fragmablast&theme=darkhub&column=6&margin-w=10&margin-h=10" alt="Trophies" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fragmablast&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
+</p>
+
+---
+
+## 🕵️ INTEL DROP POINTS
+
+| Protocol   | Entry Point |
+|------------|-------------|
+| 🛰 Telegram (Encrypted) | [@Fragmablast](https://t.me/Fragmablast) |
+| 🕸 Hacker's Network     | [@Haackers_Hubs](https://t.me/Haackers_Hubs) |
+| 🌐 Hikmah Hideout       | [hikmah.net/@hackerhub](https://hikmah.net/@hackerhub) |
+| 📧 Secure Mailbox       | [hackersalt33@gmail.com](mailto:hackersalt33@gmail.com) |
+| 🧪 Codewars Rankboard   | [codewars.com/users/Fragmablast](https://codewars.com/users/Fragmablast) |
+
+---
+
+## 🧬 CURRENT EXPLOITS
+
+- ⚙️ Building: **BlackNet Auto-Recon Engine v2.0**  
+- 🧠 Studying: **LLM Jailbreak Security**, **Firmware Binary Reversing**  
+- 📘 Reading: *Red Team Field Manual*, *The Art of Exploitation*, *Ghost in the Wires*
+
+---
+
+## 🤖 AUTORUN SCRIPT
+
+```bash
+#!/bin/bash
+
+echo "[+] Deploying shadow VPN tunnel..."
+echo "[+] Launching keylogger in volatile RAM..."
+echo "[+] Injecting AES-encrypted reverse shell payload..."
+echo "[+] Status: SYSTEM BREACHED"
+echo ">> Welcome, Operator Fragmablast"
 ```
-
----
-
-## 🏆 Achievements
-
-- 🥇 Top performer in major bug bounty programs
-- 🕵️‍♂️ Discovered critical vulnerabilities on live targets
-- 📢 Speaker at security webinars & meetups
-
----
-
-## 📱 Social & Contact
-
-<p align="center">
-  <a href="https://t.me/hackerofhumann"><img src="https://img.shields.io/badge/Telegram-%2300baff?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://www.instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/Fragmablast"><img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
 
 ---
 

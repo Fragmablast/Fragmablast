@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 WHO IS FRAGMABLAST?
+## 🧠 WHO IS FRAGMA BLAST?
 
 > _“Some learn security. I **live** it.”_
 

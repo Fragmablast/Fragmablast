@@ -49,7 +49,7 @@
 ## 💻 3D HACKER PANEL (Live Vibe)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMT1VVNkHV2PaE/giphy.gif" alt="Hacker Terminal" width="600"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGt3ZWp1eW9md3dxY2ZnajNpYnRhNWkwOHBrcjR6bjJsZHBnMmNmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKMt1VVNkHV2PaE/giphy.gif" alt="Hacker Terminal" width="600"/>
 </p>
 
 ---

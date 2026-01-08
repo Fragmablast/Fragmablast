@@ -66,7 +66,10 @@ I am a security researcher and developer focused on **Offensive Security (Red Te
 </div>
 
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=80&section=footer&text=CONNECTION_TERMINATED...&fontSize=20&fontAlign=50&fontColor=000000" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiU1jFEOQBc7/giphy.gif" width="600" alt="Glitch Effect">
+  <p align="center">
+    <img src="https://img.shields.io/badge/TRACE-0%25-black?style=for-the-badge&logo=ghostery&logoColor=red">
+    <img src="https://img.shields.io/badge/ANONYMITY-VERIFIED-black?style=for-the-badge&logo=tor&logoColor=green">
+  </p>
+</div>
